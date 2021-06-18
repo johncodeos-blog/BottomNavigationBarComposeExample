@@ -71,7 +71,6 @@ fun Navigation(navController: NavHostController) {
     }
 }
 
-
 @Composable
 fun TopBar() {
     TopAppBar(
